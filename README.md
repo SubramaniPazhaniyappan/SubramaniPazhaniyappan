@@ -1,5 +1,5 @@
 - 👋 Hi everyone, I’m SubramaniPazhaniyappan
-- 🌱 I’m currently learning python
+- 🌱 Embedded Engineer, Working in Audio Domain.
 
 <!---
 SubramaniPazhaniyappan/SubramaniPazhaniyappan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
